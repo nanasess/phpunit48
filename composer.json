@@ -65,6 +65,9 @@
             "tests/_files/CoveredFunction.php"
         ]
     },
+    "provide": {
+        "phpunit/phpunit": "4.8.36"
+    },
     "extra": {
         "branch-alias": {
             "dev-master": "4.8.x-dev"
