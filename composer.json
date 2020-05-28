@@ -69,7 +69,7 @@
         "phpunit/phpunit": "4.8.36"
     },
     "replace": {
-        "phpunit/phpunit": "*"
+        "phpunit/phpunit": "^4.8"
     },
     "extra": {
         "branch-alias": {
