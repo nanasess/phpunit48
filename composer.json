@@ -1,5 +1,5 @@
 {
-    "name": "php5friends/phpunit48",
+    "name": "nanasess/phpunit48",
     "description": "The PHP Unit Testing framework.",
     "type": "library",
     "keywords": [
@@ -66,7 +66,7 @@
         ]
     },
     "provide": {
-        "phpunit/phpunit": "4.8.35"
+        "phpunit/phpunit": "4.8.36"
     },
     "extra": {
         "branch-alias": {
