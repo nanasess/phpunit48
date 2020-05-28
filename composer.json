@@ -65,8 +65,8 @@
             "tests/_files/CoveredFunction.php"
         ]
     },
-    "replace": {
-        "phpunit/phpunit": "self.version"
+    "provide": {
+        "phpunit/phpunit": "4.8.36"
     },
     "extra": {
         "branch-alias": {
