@@ -65,9 +65,6 @@
             "tests/_files/CoveredFunction.php"
         ]
     },
-    "provide": {
-        "phpunit/phpunit": "4.8.36"
-    },
     "replace": {
         "phpunit/phpunit": "^4.8"
     },
