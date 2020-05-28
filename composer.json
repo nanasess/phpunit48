@@ -66,7 +66,10 @@
         ]
     },
     "provide": {
-        "phpunit/phpunit": "4.8.36"
+        "phpunit/phpunit": "*"
+    },
+    "replace": {
+        "phpunit/phpunit": "*"
     },
     "extra": {
         "branch-alias": {
