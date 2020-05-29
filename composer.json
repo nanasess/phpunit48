@@ -74,6 +74,6 @@
         }
     },
     "replace": {
-        "phpunit/phpunit": "self.version"
+        "phpunit/phpunit": "4.8.*"
     }
 }
