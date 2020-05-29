@@ -72,5 +72,8 @@
         "branch-alias": {
             "dev-master": "4.8.x-dev"
         }
+    },
+    "replace": {
+        "phpunit/phpunit": "self.version"
     }
 }
